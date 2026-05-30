@@ -24,3 +24,11 @@ AdSense setup after approval:
 
 Important:
 Do not remove css/ or js/ folders. The design and app features need them.
+
+
+Favicon added:
+- assets/favicon.svg
+- assets/favicon.ico
+- assets/favicon-16.png / favicon-32.png / favicon-192.png
+- assets/apple-touch-icon.png
+Make sure the assets folder is uploaded to GitHub with the HTML files.
